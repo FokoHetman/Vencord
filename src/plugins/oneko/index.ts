@@ -20,8 +20,8 @@ import { Devs } from "@utils/constants";
 import definePlugin from "@utils/types";
 
 export default definePlugin({
-    name: "oneko",
-    description: "cat follow mouse (real)",
+    name: "oneko - patched",
+    description: "~~cat~~ seal follow mouse (real)",
     // Listing adryd here because this literally just evals her script
     authors: [Devs.Ven, Devs.adryd],
 
